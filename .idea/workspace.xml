@@ -3,13 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="0466d53f-7bea-408f-957e-f4b12b7238ef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapper.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/productData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/productData.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/41d+BEO++gL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41d+BEO++gL._AC_US218_.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/510W7qZ6IVL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/510W7qZ6IVL._AC_US218_.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/51GwxUzelWL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51GwxUzelWL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/31EeSwwT4iL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/31EeSwwT4iL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/413kFx-j1vL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/413kFx-j1vL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/41P6JdeqVkL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41P6JdeqVkL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/41fz8Ud3ZIL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41fz8Ud3ZIL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/41l+35AlLaL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41l+35AlLaL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/513k4LAJ3eL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/513k4LAJ3eL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51GUHQscwKL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51GUHQscwKL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51MweMe9l7L._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51MweMe9l7L._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51TklZYA97L._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51TklZYA97L._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51gRZTR2Y0L._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51gRZTR2Y0L._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51qRZLfsNJL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51qRZLfsNJL._AC_US218_.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FileOperations.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileOperations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HTMLGetters.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/HTMLGetters.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,14 +27,14 @@
     <session id="-1816011605">
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="659" />
+          <entry key="py" value="810" />
           <entry key="txt" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="21" />
-          <entry key="Python" value="659" />
+          <entry key="Python" value="810" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
@@ -96,30 +102,30 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FileOperations.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="49" column="37" lean-forward="true" selection-start-line="49" selection-start-column="37" selection-end-line="49" selection-end-column="37" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-                <marker date="1540755507481" expanded="true" signature="1766:1771" ph="..." />
-              </folding>
+            <state relative-caret-position="782">
+              <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FileOperations.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="65" column="57" lean-forward="true" selection-start-line="65" selection-start-column="57" selection-end-line="65" selection-end-column="57" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+                <marker date="1540757950540" expanded="true" signature="2568:2573" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HTMLGetters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="72" column="15" lean-forward="true" selection-start-line="72" selection-start-column="15" selection-end-line="72" selection-end-column="15" />
+            <state relative-caret-position="198">
+              <caret line="67" column="34" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
               <folding>
                 <marker date="1540755712201" expanded="true" signature="1843:2063" ph="..." />
               </folding>
@@ -160,13 +166,13 @@
         <option value="$PROJECT_DIR$/venv/utils.py" />
         <option value="$PROJECT_DIR$/utils.py" />
         <option value="$PROJECT_DIR$/FileOperations.py" />
-        <option value="$PROJECT_DIR$/src/FileOperations.py" />
         <option value="$PROJECT_DIR$/Scrapper.py" />
         <option value="$PROJECT_DIR$/src/HTMLGetters.py" />
+        <option value="$PROJECT_DIR$/src/FileOperations.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="300" />
     <option name="y" value="425" />
     <option name="width" value="1580" />
@@ -216,7 +222,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540755889672" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540758119962" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -349,7 +355,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2185501" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2185501" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.4968017" />
@@ -357,7 +363,7 @@
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" sideWeight="0.49946696" />
       <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" sideWeight="0.49946696" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.4968017" visible="true" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.4968017" visible="true" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -434,19 +440,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FileOperations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="49" column="37" lean-forward="true" selection-start-line="49" selection-start-column="37" selection-end-line="49" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <marker date="1540755507481" expanded="true" signature="1766:1771" ph="..." />
-          </folding>
+        <state relative-caret-position="782">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -462,10 +457,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HTMLGetters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="72" column="15" lean-forward="true" selection-start-line="72" selection-start-column="15" selection-end-line="72" selection-end-column="15" />
+        <state relative-caret-position="198">
+          <caret line="67" column="34" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
           <folding>
             <marker date="1540755712201" expanded="true" signature="1843:2063" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileOperations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="65" column="57" lean-forward="true" selection-start-line="65" selection-start-column="57" selection-end-line="65" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1540757950540" expanded="true" signature="2568:2573" ph="..." />
           </folding>
         </state>
       </provider>
