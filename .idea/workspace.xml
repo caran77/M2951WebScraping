@@ -1,7 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0466d53f-7bea-408f-957e-f4b12b7238ef" name="Default Changelist" comment="" />
+    <list default="true" id="0466d53f-7bea-408f-957e-f4b12b7238ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/M2951WebScraping.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/M2951WebScraping.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileOperations.py" beforeDir="false" afterPath="$PROJECT_DIR$/FileOperations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTMLGetters.py" beforeDir="false" afterPath="$PROJECT_DIR$/HTMLGetters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/31BT1XRaxCL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/31BT1XRaxCL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/31EeSwwT4iL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/31EeSwwT4iL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/31XOlbZY6mL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/31XOlbZY6mL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/31fUrhqSmdL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/31fUrhqSmdL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/31mEBIAGKiL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/31mEBIAGKiL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/31uaUz5rE0L._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/31uaUz5rE0L._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/41+CA2QfDxL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41+CA2QfDxL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/410BlSCXs0L._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/410BlSCXs0L._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/410QkiFvAXL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/410QkiFvAXL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/4161zNpBuDL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/4161zNpBuDL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/416f4BJ0gaL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/416f4BJ0gaL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/417bSiOrEpL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/417bSiOrEpL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/418mfiQxDUL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/418mfiQxDUL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/419IHZVOweL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/419IHZVOweL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/41Iz0jYSItL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41Iz0jYSItL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/41J5paqye9L._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41J5paqye9L._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/41KWg1h-stL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41KWg1h-stL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/41MaLShtPkL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41MaLShtPkL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/41P5L5ffknL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41P5L5ffknL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/41QLpiPWOJL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41QLpiPWOJL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/41R1yQQ4LLL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41R1yQQ4LLL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/41fMDaPLT3L._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41fMDaPLT3L._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/41fz8Ud3ZIL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41fz8Ud3ZIL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/41gYMaNkv9L._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41gYMaNkv9L._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/41kcPAGHs0L._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41kcPAGHs0L._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/41n15rMZR3L._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41n15rMZR3L._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/41nPlYgtzQL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41nPlYgtzQL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/41nVjJ7RjzL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41nVjJ7RjzL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/41oKEBPDeLL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41oKEBPDeLL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/41oxMF5pQ8L._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41oxMF5pQ8L._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/41xKSLnQKpL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41xKSLnQKpL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51-ZFhkZQbL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51-ZFhkZQbL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/510W7qZ6IVL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/510W7qZ6IVL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/512y+jY9Q+L._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/512y+jY9Q+L._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/513k4LAJ3eL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/513k4LAJ3eL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/515K2iH5k-L._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/515K2iH5k-L._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/517OYKr8ibL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/517OYKr8ibL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51AAE6HoVtL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51AAE6HoVtL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51FWt0c4iGL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51FWt0c4iGL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51GUHQscwKL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51GUHQscwKL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51GmNN8v1bL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51GmNN8v1bL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51Gw4ZIgX-L._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51Gw4ZIgX-L._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51GwxUzelWL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51GwxUzelWL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51HcAkjXuVL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51HcAkjXuVL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51HfmscUtdL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51HfmscUtdL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51LUVa1ewEL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51LUVa1ewEL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51MweMe9l7L._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51MweMe9l7L._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51TklZYA97L._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51TklZYA97L._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51UfIwMUmvL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51UfIwMUmvL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51VM+9jLtsL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51VM+9jLtsL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51W3+toRkwL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51W3+toRkwL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51WIMBJnDHL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51WIMBJnDHL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51WgWAs6+IL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51WgWAs6+IL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51Zc3ltMXhL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51Zc3ltMXhL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51cqiW7gcOL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51cqiW7gcOL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51gb9e-VESL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51gb9e-VESL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51h-GOmaimL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51h-GOmaimL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51kAp1tU+rL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51kAp1tU+rL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51lDX3AkTzL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51lDX3AkTzL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51ukh9lLNiL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51ukh9lLNiL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/51v99hSUSFL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51v99hSUSFL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/61DnGitA1ZL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/61DnGitA1ZL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/61bLESsyZyL._AC_US218_.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/61bLESsyZyL._AC_US218_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miFichero.csv" beforeDir="false" afterPath="$PROJECT_DIR$/miFichero.csv" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,32 +83,39 @@
     <session id="-1816011605">
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="31" />
+          <entry key="py" value="487" />
           <entry key="txt" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="21" />
-          <entry key="Python" value="31" />
+          <entry key="Python" value="487" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="csv" value="1" />
+          <entry key="csv" value="3" />
+          <entry key="jpg" value="3" />
+          <entry key="py" value="5" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="CSV" value="1" />
+          <entry key="Image" value="3" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="5" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -48,8 +126,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Scrapper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="118" column="16" selection-start-line="118" selection-start-column="16" selection-end-line="118" selection-end-column="16" />
+            <state relative-caret-position="187">
+              <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -57,18 +135,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/miFichero.csv">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FileOperations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+            <state relative-caret-position="303">
+              <caret line="42" column="141" selection-start-line="42" selection-start-column="141" selection-end-line="42" selection-end-column="141" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+                <marker date="1540730452901" expanded="true" signature="1617:1622" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTMLGetters.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/miFichero.csv">
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="72" selection-start-line="22" selection-start-column="72" selection-end-line="22" selection-end-column="72" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -79,6 +174,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Err</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -91,7 +191,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/.idea/HTMLGetters.py" />
+        <option value="$PROJECT_DIR$/HTMLGetters.py" />
+        <option value="$PROJECT_DIR$/miFichero.csv" />
+        <option value="$PROJECT_DIR$/venv/utils.py" />
+        <option value="$PROJECT_DIR$/utils.py" />
         <option value="$PROJECT_DIR$/Scrapper.py" />
+        <option value="$PROJECT_DIR$/FileOperations.py" />
       </list>
     </option>
   </component>
@@ -109,6 +215,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,14 +237,21 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540485394325" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540730452989" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\usuarios\carlos\uoc\tipologiaicicledevida\practicas\M2951WebScraping" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -231,26 +346,34 @@
       <option name="project" value="LOCAL" />
       <updated>1540485222452</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Primera versión">
+      <created>1540489825101</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1540489825101</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1034" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.37579957" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2185501" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50053304" side_tool="true" visible="true" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.4968017" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5026652" side_tool="true" visible="true" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" />
       <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" sideWeight="0.49946696" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49946696" visible="true" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.49733475" visible="true" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -279,28 +402,72 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/results/results.csv">
+    <entry file="file://$PROJECT_DIR$/.idea/results/results.csv" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="30" column="58" lean-forward="true" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/utils.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/31+ZC01Ff-L._AC_US218_.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/31-jfRDqgRL._AC_US218_.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/31-idqEJijL._AC_US218_.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/miFichero.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="72" selection-start-line="22" selection-start-column="72" selection-end-line="22" selection-end-column="72" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="701">
+          <caret line="793" selection-start-line="793" selection-end-line="793" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTMLGetters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Scrapper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="118" column="16" selection-start-line="118" selection-start-column="16" selection-end-line="118" selection-end-column="16" />
+        <state relative-caret-position="187">
+          <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/miFichero.csv">
+    <entry file="file://$PROJECT_DIR$/FileOperations.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        <state relative-caret-position="303">
+          <caret line="42" column="141" selection-start-line="42" selection-start-column="141" selection-end-line="42" selection-end-column="141" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1540730452901" expanded="true" signature="1617:1622" ph="..." />
+          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
