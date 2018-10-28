@@ -1,11 +1,9 @@
 from bs4 import BeautifulSoup
 import time
-import FileOperations
-import HTMLGetters
-import utils
+from src import utils, FileOperations, HTMLGetters
 
 urlBase = "https://www.amazon.es/s/field-keywords="
-fileName = 'miFichero.csv'
+fileName = 'data/productData.csv'
 sleepTime = 1
 retries = 3
 parser = 'html.parser'
