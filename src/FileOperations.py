@@ -7,7 +7,7 @@ import requests
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 def getFieldNames() -> object:
-    fieldnames = ['imgName', 'code', 'description', 'price', 'image', 'puntuation', 'altImage', 'fecha']
+    fieldnames = ['imgName', 'code', 'description', 'price', 'image', 'puntuation', 'altImage', 'stock', 'date']
     return fieldnames
 
 
@@ -37,11 +37,21 @@ def createFile(fileName):
         writer.writeheader()
 
 
-def createRow(imgName, fileName, code, price, description, image, puntuation, imgAlt):
+def createRow(imgName, fileName, code, price, description, image, puntuation, imgAlt, stock):
     with open(fileName, 'a') as csvfile:
         fieldnames = getFieldNames()
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter=';', quotechar='|', quoting=csv.QUOTE_MINIMAL, lineterminator='\r')
-        writer.writerow({'imgName': imgName, 'code': code, 'description': description, 'price': price, 'image': image, 'puntuation': puntuation, 'altImage' : imgAlt, 'fecha':datetime.datetime.now().__str__()})
+        writer.writerow({
+            'imgName': imgName,
+            'code': code,
+            'description': description,
+            'price': price,
+            'image': image,
+            'puntuation': puntuation,
+            'altImage' : imgAlt,
+            'stock' : stock,
+            'date':datetime.datetime.now().__str__()
+        })
 
 def downloadImg(url, folder, file):
     response = requests.get(url, stream=True)

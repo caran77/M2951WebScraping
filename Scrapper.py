@@ -29,12 +29,13 @@ def scraping(url):
                     price = HTMLGetters.getPrice(a)
                     puntuation = HTMLGetters.getPuntuation(a)
                     description = HTMLGetters.getDescription(a)
+                    stock = HTMLGetters.getStock(a)
                     imgName = None
                     if (imgURL != None):
                         imgName = utils.getFileName(imgURL)
                         FileOperations.downloadImg(imgURL, 'img', imgName)
                     try:
-                        FileOperations.createRow(imgName, fileName, code, price, description, imgURL, puntuation, imgAlt)
+                        FileOperations.createRow(imgName, fileName, code, price, description, imgURL, puntuation, imgAlt, stock)
                     except(Exception):
                         if (code == None):
                             print("Error desconocido")

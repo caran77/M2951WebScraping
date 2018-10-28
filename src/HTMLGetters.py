@@ -71,3 +71,14 @@ def getCode(html):
                 except(Exception):
                     print("Code error")
     return code
+
+
+def getStock(html):
+    stock = None
+    spanStock = html.find('span', class_="a-size-small a-color-price")
+    if (spanStock != 'None'):
+        try:
+            stock = spanStock.contents[0]
+        except(Exception):
+            stock = None
+    return stock
