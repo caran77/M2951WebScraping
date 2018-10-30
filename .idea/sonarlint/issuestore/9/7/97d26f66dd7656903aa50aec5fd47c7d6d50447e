@@ -1,0 +1,11 @@
+
+tpython:S117Q"XRename this local variable "fileLoc" to match the regular expression ^[_a-z][a-z0-9_]*$.(¦›£èøÿÿÿÿ
+epython:S107/"NFunction "createRow" has 9 parameters, which is greater than the 7 authorized.(¸Öúç
+kpython:S117("TRename this parameter "fileName" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾ÆÉ
+kpython:S1542("SRename function "createFile" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¾ÆÉ
+qpython:S1542O"TRename function "downloadImg" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Åççúÿÿÿÿ
+kpython:S117/"TRename this parameter "fileName" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸Öúç
+jpython:S117/"SRename this parameter "imgName" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸Öúç
+jpython:S1542/"RRename function "createRow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¸Öúç
+ipython:S117/"RRename this parameter "imgAlt" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸Öúç
+npython:S1542"VRename function "getFieldNames" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Áøí
