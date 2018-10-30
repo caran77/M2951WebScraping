@@ -1,21 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0466d53f-7bea-408f-957e-f4b12b7238ef" name="Default Changelist" comment="">
+    <list default="true" id="0466d53f-7bea-408f-957e-f4b12b7238ef" name="Default Changelist" comment="Change python version">
+      <change afterPath="$PROJECT_DIR$/img/21ipYi-oOIL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/31B4nOqN9KL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/31SxCCX9WqL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/31TqNlUelVL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/31kISu1DL-L._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/31ouvEAVtSL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/41+XIxLyZJL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/411bMBF1EqL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/412eYT+ekCL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/419JG39TmPL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/41AKKreK96L._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/41AnabTPuJL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/41BAhkLDLSL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/41DWhy-NV3L._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/41Fc82aBiLL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/41IozVcNm6L._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/41Kw7R2HLVL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/41OSd9brAdL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/41QVavtD+1L._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/41TKphMF+DL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/41UzyJan7SL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/41V17M4QhJL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/41WaGWBlxcL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/41cB7P0sshL._SL218_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU30_AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/41cqALbW4bL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/41lCZRy7rAL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/41meYYgUDOL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/41p5lL+ZljL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/41pVkTUJdhL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/41qebJaW4FL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/41xZXmaFP2L._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/41yzrvKQ1ZL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/516bS2RI7IL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/517A6IqMuWL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/51HejGKr+iL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/51MfnIJjTKL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/51O0dat7WxL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/51PMb8oEm2L._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/51UsY1ZWnUL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/51ZThaDa+9L._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/51aJnQ39KrL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/51aNt7tt5wL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/51ftvSM9hrL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/51hcGptMEGL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/51i2AiHPAEL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/51oS6AcU6vL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/51sk3S3HTbL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/51yCDYrrVpL._AC_US218_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/51z1lR3g4KL._AC_US218_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scrapper.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/productData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/productData.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/31EeSwwT4iL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/31EeSwwT4iL._AC_US218_.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/413kFx-j1vL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/413kFx-j1vL._AC_US218_.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/41P6JdeqVkL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41P6JdeqVkL._AC_US218_.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/41fz8Ud3ZIL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41fz8Ud3ZIL._AC_US218_.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/41l+35AlLaL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41l+35AlLaL._AC_US218_.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/513k4LAJ3eL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/513k4LAJ3eL._AC_US218_.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/51GUHQscwKL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51GUHQscwKL._AC_US218_.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/51MweMe9l7L._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51MweMe9l7L._AC_US218_.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/51TklZYA97L._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51TklZYA97L._AC_US218_.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/51gRZTR2Y0L._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51gRZTR2Y0L._AC_US218_.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/51qRZLfsNJL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/51qRZLfsNJL._AC_US218_.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FileOperations.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileOperations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/41pLOKQHTiL._AC_US218_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41pLOKQHTiL._AC_US218_.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,16 +106,39 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1675541492">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1" />
+          <entry key="txt" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="21" />
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Scrapper.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Scrapper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+            <state relative-caret-position="446">
+              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
               <folding>
-                <element signature="e#0#29#0" expanded="true" />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -102,20 +165,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+            <state relative-caret-position="426">
+              <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FileOperations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="65" column="57" lean-forward="true" selection-start-line="65" selection-start-column="57" selection-end-line="65" selection-end-column="57" />
+            <state relative-caret-position="68">
+              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
-                <marker date="1540757950540" expanded="true" signature="2568:2573" ph="..." />
               </folding>
             </state>
           </provider>
@@ -124,11 +186,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HTMLGetters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="67" column="34" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
-              <folding>
-                <marker date="1540755712201" expanded="true" signature="1843:2063" ph="..." />
-              </folding>
+            <state>
+              <caret selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -166,13 +225,14 @@
         <option value="$PROJECT_DIR$/venv/utils.py" />
         <option value="$PROJECT_DIR$/utils.py" />
         <option value="$PROJECT_DIR$/FileOperations.py" />
-        <option value="$PROJECT_DIR$/Scrapper.py" />
         <option value="$PROJECT_DIR$/src/HTMLGetters.py" />
         <option value="$PROJECT_DIR$/src/FileOperations.py" />
+        <option value="$PROJECT_DIR$/Scrapper.py" />
+        <option value="$PROJECT_DIR$/src/Scrapper.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="300" />
     <option name="y" value="425" />
     <option name="width" value="1580" />
@@ -186,42 +246,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="M2951WebScraping" type="b2602c69:ProjectViewProjectNode" />
-              <item name="M2951WebScraping" type="462c0819:PsiDirectoryNode" />
+              <item name="M2951" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M2951" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="M2951WebScraping" type="b2602c69:ProjectViewProjectNode" />
-              <item name="M2951WebScraping" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="M2951WebScraping" type="b2602c69:ProjectViewProjectNode" />
-              <item name="M2951WebScraping" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="M2951WebScraping" type="b2602c69:ProjectViewProjectNode" />
-              <item name="M2951WebScraping" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="M2951WebScraping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M2951" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540758119962" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
     <property name="project.structure.last.edited" value="Project" />
@@ -231,6 +276,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\cagarcia\uoc\M2951\src" />
       <recent name="E:\usuarios\carlos\uoc\tipologiaicicledevida\practicas\M2951WebScraping\src" />
       <recent name="E:\usuarios\carlos\uoc\tipologiaicicledevida\practicas\M2951WebScraping\data" />
       <recent name="E:\usuarios\carlos\uoc\tipologiaicicledevida\practicas\M2951WebScraping" />
@@ -256,7 +302,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="E:\Beep\AppData\Local\Programs\Python\Python35-32\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -347,7 +393,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1034" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
@@ -355,20 +401,21 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2185501" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.23825504" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.4968017" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50319827" side_tool="true" visible="true" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5013423" side_tool="true" visible="true" weight="0.22580644" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" sideWeight="0.49946696" />
       <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" sideWeight="0.49946696" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.4968017" visible="true" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49530202" weight="0.32991204" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49946696" visible="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" sideWeight="0.4986577" visible="true" weight="0.22580644" />
+      <window_info anchor="bottom" id="SonarLint" order="11" sideWeight="0.49932885" weight="0.32991204" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
@@ -386,16 +433,15 @@
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Primera versión" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primera versión" />
+    <MESSAGE value="Change python version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change python version" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/results/results.csv" />
-    <entry file="file://$PROJECT_DIR$/venv/utils.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/utils.py" />
     <entry file="file://$PROJECT_DIR$/img/31+ZC01Ff-L._AC_US218_.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -412,15 +458,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/miFichero.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+    <entry file="file://$PROJECT_DIR$/data/miFichero.csv" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="701">
-          <caret line="793" selection-start-line="793" selection-end-line="793" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HTMLGetters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -431,47 +487,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scrapper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HTMLGetters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="67" column="34" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
-          <folding>
-            <marker date="1540755712201" expanded="true" signature="1843:2063" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FileOperations.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="65" column="57" lean-forward="true" selection-start-line="65" selection-start-column="57" selection-end-line="65" selection-end-column="57" />
+        <state relative-caret-position="68">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
-            <marker date="1540757950540" expanded="true" signature="2568:2573" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Scrapper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -517,7 +548,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>10</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
