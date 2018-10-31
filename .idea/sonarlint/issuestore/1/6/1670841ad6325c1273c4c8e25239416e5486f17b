@@ -1,6 +1,0 @@
-
-qpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ôõíıÿÿÿÿ
-mpython:S117"WRename this local variable "imgURL" to match the regular expression ^[_a-z][a-z0-9_]*$.(€‚>
-upython:S117"^Rename this local variable "searchConcept" to match the regular expression ^[_a-z][a-z0-9_]*$.(–‚ó
-tpython:S117!"XRename this local variable "imgName" to match the regular expression ^[_a-z][a-z0-9_]*$.(îâÔóøÿÿÿÿ
-spython:S117"WRename this local variable "imgAlt" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÆÕ”íúÿÿÿÿ

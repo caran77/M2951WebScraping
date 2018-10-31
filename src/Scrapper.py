@@ -9,7 +9,7 @@ fileName = 'data/productData.csv'
 sleepTime = 1
 retries = 3
 parser = 'html.parser'
-search = ["nikon", "canon", "leica"]
+search = ["nikon", "canon", "leica", "fujifilm"]
 
 def scraping(url):
     FileOperations.createFile(fileName)
