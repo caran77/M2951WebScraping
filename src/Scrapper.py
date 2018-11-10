@@ -49,6 +49,3 @@ def treatDiv(all_a):
                 print("Error desconocido")
             else:
                 print("Error " + code)
-
-
-scraping(urlBase)
