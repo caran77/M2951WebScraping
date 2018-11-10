@@ -14,5 +14,8 @@ Carlos A. García
  - HTMLGetters.py. Funcions d'obtenció de dades dins de l'arbre HTML 
  - utils.py. Utilitats auxiliars. Altres utilitats (per exemple, tractament de cadenes de texte)
 # Dataset
- 
-	
+data/productData.csv
+# Imatges descarregades
+img
+#Resposta a les preguntes de la pràctica
+pdf/documentation.pdf 
