@@ -1,0 +1,6 @@
+
+ipython:S1542 "QRename function "treatDiv" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ïªË¶
+spython:S117$"WRename this local variable "imgAlt" to match the regular expression ^[_a-z][a-z0-9_]*$.(∆’îÌ˙ˇˇˇˇ
+tpython:S117)"XRename this local variable "imgName" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ó‚‘Û¯ˇˇˇˇ
+mpython:S117#"WRename this local variable "imgURL" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÄçÇ>
+upython:S117"^Rename this local variable "searchConcept" to match the regular expression ^[_a-z][a-z0-9_]*$.(èñÇÛ
