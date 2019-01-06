@@ -2,7 +2,7 @@ import time
 
 from bs4 import BeautifulSoup
 
-from src import utils, FileOperations, HTMLGetters
+from src import utils, FileOperations, HTMLGetters, dataCleaningUtils
 
 urlBase = "https://www.amazon.es/s/field-keywords="
 fileName = 'data/productData.csv'
@@ -24,12 +24,12 @@ def scraping(url):
                 soup = BeautifulSoup(http, parser)
                 finaliza = FileOperations.eof(soup)
                 all_a = soup.find_all('div', class_="a-fixed-left-grid-inner")
-                treatDiv(all_a)
+                treatDiv(all_a, searchConcept, x)
             x = x + 1
         print("x "+ x.__str__())
 
 
-def treatDiv(all_a):
+def treatDiv(all_a, searchConcept, page):
     for a in all_a:
         code = HTMLGetters.getCode(a)
         imgURL = HTMLGetters.getImageURL(a)
@@ -43,9 +43,10 @@ def treatDiv(all_a):
             imgName = utils.getFileName(imgURL)
             FileOperations.downloadImg(imgURL, 'img', imgName)
         try:
-            FileOperations.createRow(imgName, fileName, code, price, description, imgURL, puntuation, imgAlt, stock)
+            if (dataCleaningUtils.isValidRow(price) == 0):
+                FileOperations.createRow(searchConcept, page, imgName, fileName, code, price, description, imgURL, puntuation, imgAlt, stock)
         except(Exception):
             if (code == None):
-                print("Error desconocido")
+                print("Unknown error ")
             else:
                 print("Error " + code)

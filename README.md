@@ -1,7 +1,7 @@
 # M2951WebScraping
 Pràctica 1 de l'assignatura M2951. Web Scrapping
-# Git HUB
-https://github.com/caran77/M2951WebScraping 
+# Direcció Git HUB
+caran77/M2951WebScraping 
 # Descripció
 El codi es correspon amb el requisits sol·licitats a l'assignatura "Tipologia i cicle de vida de les dades", del Màster en Ciència de Dades de l'UOC. 
 El codi es conecta a la web amazon.es i, mitjançant tècniques de Web Scrapping, permet generar un Dataset a partir de les característiques més importants dels productes obtinguts.

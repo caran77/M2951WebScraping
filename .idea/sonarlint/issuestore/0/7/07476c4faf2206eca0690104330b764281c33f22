@@ -1,14 +1,14 @@
 
-opython:S117A"XRename this local variable "divCode" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬ƒ­ÿ
-mpython:S1542>"PRename function "getCode" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ô€†Íùÿÿÿÿ
-npython:S117"WRename this local variable "urlImg" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ï÷á«
-spython:S117)"WRename this local variable "altImg" to match the regular expression ^[_a-z][a-z0-9_]*$.(§ãôÃýÿÿÿÿ
+lpython:S1542"TRename function "getImageURL" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(þÈ©¬
+vpython:S117N"ZRename this local variable "spanStock" to match the regular expression ^[_a-z][a-z0-9_]*$.(Èä‡¸øÿÿÿÿ
 ppython:S117C"YRename this local variable "spanCode" to match the regular expression ^[_a-z][a-z0-9_]*$.(îÃ±²
-ipython:S1542"QRename function "getPrice" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(íâ‰í
 ipython:S1542L"QRename function "getStock" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(œ Íž
 opython:S117@"XRename this local variable "codeVal" to match the regular expression ^[_a-z][a-z0-9_]*$.(ôÂÊ 
+ipython:S1542"QRename function "getPrice" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(íâ‰í
 spython:S1542"VRename function "getPuntuation" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(úöË£ýÿÿÿÿ
-lpython:S1542"TRename function "getImageURL" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(þÈ©¬
-qpython:S1542("TRename function "getImageAlt" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÕÎºÙýÿÿÿÿ
-vpython:S117N"ZRename this local variable "spanStock" to match the regular expression ^[_a-z][a-z0-9_]*$.(Èä‡¸øÿÿÿÿ
+npython:S117"WRename this local variable "urlImg" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ï÷á«
 opython:S15423"WRename function "getDescription" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ð½
+spython:S117)"WRename this local variable "altImg" to match the regular expression ^[_a-z][a-z0-9_]*$.(§ãôÃýÿÿÿÿ
+qpython:S1542("TRename function "getImageAlt" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÕÎºÙýÿÿÿÿ
+mpython:S1542>"PRename function "getCode" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ô€†Íùÿÿÿÿ
+opython:S117A"XRename this local variable "divCode" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬ƒ­ÿ

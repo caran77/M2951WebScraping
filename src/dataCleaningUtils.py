@@ -1,3 +1,5 @@
+from src import FileOperations
+
 def getPrice(value):
     posGui = value.find("-")
     if (posGui == -1):
@@ -43,3 +45,9 @@ def isValidRow(value):
     if (value in ('Escuchar con Unlimited', 'GRATIS')):
         return 1
     return 0
+
+def compactFile():
+    fileName = FileOperations.fileName
+    return 0
+
+compactFile()

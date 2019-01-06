@@ -3,6 +3,7 @@ import csv
 import datetime
 import shutil
 import requests
+from src import dataCleaningUtils
 
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -11,10 +12,14 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 delimiter = ";"
 altDelimiter = ","
 lineterminator = '\r'
+fileName = 'data/productData.csv'
 
 
 def getFieldNames() -> object:
-    fieldnames = ['imgName', 'code', 'description', 'price', 'image', 'puntuation', 'altImage', 'stock', 'date']
+    fieldnames = [
+        'searchConcept', 'page', 'imgName', 'code', 'description', 'price', 'priceValue', 'priceCurrency', 'priceMax',
+        'image', 'puntuation', 'puntuationValue', 'altImage', 'stock', 'stockValue', 'date', 'dateDay', 'dateHour'
+    ]
     return fieldnames
 
 
@@ -44,36 +49,54 @@ def createFile(fileName):
         writer.writeheader()
 
 
-def createRow(imgName, fileName, code, price, description, image, puntuation, imgAlt, stock):
+def createRow(searchConcept, page, imgName, fileName, code, price, description, image, puntuation, imgAlt, stock):
     with open(fileName, 'a') as csvfile:
         fieldnames = getFieldNames()
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter=';', quotechar='|', quoting=csv.QUOTE_MINIMAL, lineterminator='\r')
+        priceValue = ""
+        stockValue = ""
+        puntuationValue = ""
+        priceMax = ""
         if imgName != None:
             imgName = imgName.replace(delimiter, altDelimiter)
         if code != None:
             code = code.replace(delimiter, altDelimiter)
-        if description != None:
-            description = description.replace(delimiter, altDelimiter)
-        if price != None:
+        if  description != None:
+            description = dataCleaningUtils.deleteInvalidChar(description.replace(delimiter, altDelimiter))
+        if  price != None:
             price = price.replace(delimiter, altDelimiter)
+            priceValue, priceCurrency, priceMax = dataCleaningUtils.getPrice(price)
         if image != None:
             image = image.replace(delimiter, altDelimiter)
         if puntuation != None:
             puntuation = puntuation.replace(delimiter, altDelimiter)
+            puntuationValue = dataCleaningUtils.getPuntuation(puntuation)
         if imgAlt != None:
-            imgAlt = imgAlt.replace(delimiter, altDelimiter)
+            imgAlt = dataCleaningUtils.deleteInvalidChar(imgAlt.replace(delimiter, altDelimiter))
         if stock != None:
             stock = stock.replace(delimiter, altDelimiter)
+            stockValue = dataCleaningUtils.getStock(stock)
+        dateVal = datetime.datetime.now().__str__()
+        dateDay, dateHour = dataCleaningUtils.getDate(dateVal)
         writer.writerow({
+            'searchConcept': searchConcept,
+            'page': page,
             'imgName': imgName,
             'code': code,
             'description': description,
             'price': price,
+            'priceValue': priceValue,
+            'priceCurrency': priceCurrency,
+            'priceMax': priceMax,
             'image': image,
             'puntuation': puntuation,
-            'altImage' : imgAlt,
-            'stock' : stock,
-            'date':datetime.datetime.now().__str__()
+            'puntuationValue': puntuationValue,
+            'altImage': imgAlt,
+            'stock': stock,
+            'stockValue': stockValue,
+            'date': dateVal,
+            'dateDay': dateDay,
+            'dateHour': dateHour
         })
 
 def downloadImg(url, folder, file):
