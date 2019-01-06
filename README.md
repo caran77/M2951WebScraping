@@ -19,5 +19,11 @@ Carlos A. García
 data/productData.csv
 # Imatges descarregades
 img
-#Resposta a les preguntes de la pràctica
+#Fitxer de neteja de dades amb Python
+dataCleaningUtils.py
+#Fitxer de tractament de dades amb R
+RCleaning.R
+#Resposta a les preguntes de la primera pràctica
 pdf/documentation.pdf 
+#Resposta a les preguntes de la segona pràctica
+documentationDataCleaning.pdf
